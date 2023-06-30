@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #!/bin/bash
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8,3 +9,10 @@ echo "ALX School"
 =======
 echo "ALX School is so cool!"
 >>>>>>> refs/remotes/origin/master
+=======
+ update_script
+echo "ALX School"
+
+echo "ALX School is so cool!"
+ master
+>>>>>>> 87344d3f420c268c225805936dcf1a616d1db225
